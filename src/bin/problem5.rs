@@ -8,10 +8,9 @@ fn is_evenly_divisible(num: i64) -> bool {
 }
 
 fn main() {
-    for i in 1.. {
-        if is_evenly_divisible(i) {
-            println!("{}", i);
-            return;
-        }
+    let mut i = 2;
+    while !is_evenly_divisible(i) {
+        i += 2;
     }
+    println!("{:?}", i);
 }
