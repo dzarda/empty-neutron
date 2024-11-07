@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.4">
   <diagram name="Stránka-1" id="9CnP004qYMigYNqWgDO1">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uExfMYmJ2H_KzOBGfOWI-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="314" y="260" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uExfMYmJ2H_KzOBGfOWI-2" value="Tlačítka" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uExfMYmJ2H_KzOBGfOWI-3" value="Display" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uExfMYmJ2H_KzOBGfOWI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="280" width="26" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uExfMYmJ2H_KzOBGfOWI-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="340" width="26" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uExfMYmJ2H_KzOBGfOWI-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="400" width="26" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uExfMYmJ2H_KzOBGfOWI-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="280" width="26" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uExfMYmJ2H_KzOBGfOWI-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="340" width="26" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uExfMYmJ2H_KzOBGfOWI-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="400" width="26" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uExfMYmJ2H_KzOBGfOWI-11" value="Konektory" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uExfMYmJ2H_KzOBGfOWI-12" value="Konektory" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
